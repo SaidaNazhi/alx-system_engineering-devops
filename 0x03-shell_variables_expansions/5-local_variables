@@ -1,2 +1,2 @@
 #!/bin/bash
-set | grep -vE '^\w+=' | sort; declare -F
+set
